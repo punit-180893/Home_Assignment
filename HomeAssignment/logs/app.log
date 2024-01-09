@@ -1,0 +1,124 @@
+
+2023-01-25 18:48:42,211 [main] INFO  tests.ShopTest - Driver initialized.
+2023-01-25 18:48:43,307 [main] INFO  tests.ShopTest - Clicked on Shop link.
+2023-01-25 18:48:44,180 [main] INFO  tests.ShopTest - Clicked on selenium link.
+2023-01-25 18:48:45,025 [main] INFO  tests.ShopTest - Clicked in read more.
+2023-01-25 18:50:20,899 [main] INFO  tests.LoginTest - Driver initialization done.
+2023-01-25 18:50:21,737 [main] INFO  tests.LoginTest - My Account is clicked.
+2023-01-25 18:50:22,460 [main] INFO  tests.LoginTest - Data insrted.
+2023-01-25 18:50:23,731 [main] INFO  tests.LoginTest - Login button clicked.
+2023-01-25 18:50:23,746 [main] INFO  tests.LoginTest - Assertion checked.
+2023-01-25 18:50:23,850 [main] INFO  tests.LoginTest - Driver initialization done.
+2023-01-25 18:50:25,403 [main] INFO  tests.LoginTest - click on Addresses then edit.
+2023-01-25 18:50:28,754 [main] INFO  tests.LoginTest - Data inserted.
+2023-01-25 18:50:29,762 [main] INFO  tests.LoginTest - Click on save address button.
+2023-01-25 18:50:29,861 [main] INFO  tests.LoginTest - Driver initialization done.
+2023-01-25 18:50:30,518 [main] INFO  tests.LoginTest - Clicked on Account deatails
+2023-01-25 18:50:31,221 [main] INFO  tests.LoginTest - Data inserted.
+2023-01-25 18:50:31,981 [main] INFO  tests.LoginTest - Clicked on Save acount Details.
+2023-01-25 18:50:32,002 [main] INFO  tests.LoginTest - Driver initialization done.
+2023-01-25 18:50:32,989 [main] INFO  tests.LoginTest - Click on Logout
+2023-01-25 18:50:33,069 [main] INFO  tests.LoginTest - Driver initialization done.
+2023-01-25 18:51:28,020 [main] INFO  tests.ShopTest - Driver initialized.
+2023-01-25 18:51:29,023 [main] INFO  tests.ShopTest - Clicked on Shop link.
+2023-01-25 18:51:29,851 [main] INFO  tests.ShopTest - Clicked on selenium link.
+2023-01-25 18:51:30,695 [main] INFO  tests.ShopTest - Clicked in read more.
+2023-01-25 19:05:51,443 [TestNG-test=Test-2] INFO  tests.ShopTest - Driver initialized.
+2023-01-25 19:05:52,656 [TestNG-test=Test-3] INFO  tests.LoginTest - Driver initialization done.
+2023-01-25 19:05:52,666 [TestNG-test=Test-1] INFO  tests.LoginTest - Driver initialization done.
+2023-01-25 19:05:53,107 [TestNG-test=Test-2] INFO  tests.ShopTest - Clicked on Shop link.
+2023-01-25 19:05:54,019 [TestNG-test=Test-3] INFO  tests.LoginTest - My Account is clicked.
+2023-01-25 19:05:55,125 [TestNG-test=Test-3] INFO  tests.LoginTest - Data insrted.
+2023-01-25 19:05:55,951 [TestNG-test=Test-3] INFO  tests.LoginTest - Login button clicked.
+2023-01-25 19:05:55,963 [TestNG-test=Test-3] INFO  tests.LoginTest - Assertion checked.
+2023-01-25 19:05:56,092 [TestNG-test=Test-4] INFO  tests.LoginTest - Driver initialization done.
+2023-01-25 19:05:57,780 [TestNG-test=Test-4] INFO  tests.LoginTest - click on Addresses then edit.
+2023-01-25 19:06:01,536 [TestNG-test=Test-4] INFO  tests.LoginTest - Data inserted.
+2023-01-25 19:06:02,817 [TestNG-test=Test-4] INFO  tests.LoginTest - Click on save address button.
+2023-01-25 19:06:02,900 [TestNG-test=Test-4] INFO  tests.LoginTest - Driver initialization done.
+2023-01-25 19:06:03,641 [TestNG-test=Test-4] INFO  tests.LoginTest - Clicked on Account deatails
+2023-01-25 19:06:04,325 [TestNG-test=Test-4] INFO  tests.LoginTest - Data inserted.
+2023-01-25 19:06:05,127 [TestNG-test=Test-4] INFO  tests.LoginTest - Clicked on Save acount Details.
+2023-01-25 19:06:05,142 [TestNG-test=Test-4] INFO  tests.LoginTest - Driver initialization done.
+2023-01-25 19:06:06,088 [TestNG-test=Test-4] INFO  tests.LoginTest - Click on Logout
+2023-01-25 19:06:06,114 [TestNG-test=Test-4] INFO  tests.LoginTest - logout Assertion done.
+2023-01-25 19:06:06,121 [TestNG-test=Test-4] INFO  tests.LoginTest - Driver initialization done.
+2023-01-25 19:06:16,725 [TestNG-test=Test-4] INFO  tests.LoginTest - Driver initialization done.
+2023-01-25 19:08:11,416 [TestNG-test=Test-2] INFO  tests.ShopTest - Driver initialized.
+2023-01-25 19:08:12,532 [TestNG-test=Test-1] INFO  tests.LoginTest - Driver initialization done.
+2023-01-25 19:08:12,543 [TestNG-test=Test-3] INFO  tests.LoginTest - Driver initialization done.
+2023-01-25 19:08:12,724 [TestNG-test=Test-2] INFO  tests.ShopTest - Clicked on Shop link.
+2023-01-25 19:08:13,634 [TestNG-test=Test-1] INFO  tests.LoginTest - Clicked on My Account
+2023-01-25 19:08:14,593 [TestNG-test=Test-1] INFO  tests.LoginTest - Account Creation data inserted.
+2023-01-25 19:08:14,593 [TestNG-test=Test-1] INFO  tests.LoginTest - Clicked on Registration button.
+2023-01-25 19:08:14,611 [TestNG-test=Test-1] INFO  tests.LoginTest - Create account assertion checked.
+2023-01-25 19:09:32,611 [TestNG-test=Test-2] INFO  tests.ShopTest - Driver initialized.
+2023-01-25 19:09:33,748 [TestNG-test=Test-3] INFO  tests.LoginTest - Driver initialization done.
+2023-01-25 19:09:33,748 [TestNG-test=Test-1] INFO  tests.LoginTest - Driver initialization done.
+2023-01-25 19:09:34,065 [TestNG-test=Test-2] INFO  tests.ShopTest - Clicked on Shop link.
+2023-01-25 19:09:35,339 [TestNG-test=Test-1] INFO  tests.LoginTest - Clicked on My Account
+2023-01-25 19:09:36,464 [TestNG-test=Test-1] INFO  tests.LoginTest - Account Creation data inserted.
+2023-01-25 19:09:36,464 [TestNG-test=Test-1] INFO  tests.LoginTest - Clicked on Registration button.
+2023-01-25 19:09:36,478 [TestNG-test=Test-1] INFO  tests.LoginTest - Create account assertion checked.
+2023-01-25 19:12:19,276 [TestNG-tests-2] INFO  tests.LoginTest - Driver initialization done.
+2023-01-25 19:12:21,833 [TestNG-tests-1] INFO  tests.ShopTest - Driver initialized.
+2023-01-25 19:12:23,185 [TestNG-tests-2] INFO  tests.LoginTest - My Account is clicked.
+2023-01-25 19:13:25,202 [TestNG-test=TestA-1] INFO  tests.ShopTest - Driver initialized.
+2023-01-25 19:13:26,454 [TestNG-test=TestA-1] INFO  tests.ShopTest - Clicked on Shop link.
+2023-01-25 19:13:27,252 [TestNG-test=TestA-1] INFO  tests.ShopTest - Clicked on selenium link.
+2023-01-25 19:13:28,260 [TestNG-test=TestA-1] INFO  tests.ShopTest - Clicked in read more.
+2023-01-25 19:13:28,283 [TestNG-test=TestA-1] INFO  tests.ShopTest - Shop Page assertion checked.
+2023-01-25 19:13:49,728 [TestNG-test=TestB-1] INFO  tests.LoginTest - Driver initialization done.
+2023-01-25 19:13:49,899 [TestNG-test=TestB-1] INFO  tests.LoginTest - My Account is clicked.
+2023-01-25 19:14:19,313 [TestNG-test=TestC-1] INFO  tests.LoginTest - Driver initialization done.
+2023-01-25 19:14:19,527 [TestNG-test=TestC-1] INFO  tests.LoginTest - Clicked on My Account
+2023-01-25 19:15:27,195 [TestNG-test=TestA-1] INFO  tests.ShopTest - Driver initialized.
+2023-01-25 19:15:28,256 [TestNG-test=TestA-1] INFO  tests.ShopTest - Clicked on Shop link.
+2023-01-25 19:15:29,259 [TestNG-test=TestA-1] INFO  tests.ShopTest - Clicked on selenium link.
+2023-01-25 19:15:30,221 [TestNG-test=TestA-1] INFO  tests.ShopTest - Clicked in read more.
+2023-01-25 19:15:30,232 [TestNG-test=TestA-1] INFO  tests.ShopTest - Shop Page assertion checked.
+2023-01-25 19:15:49,510 [TestNG-test=TestB-1] INFO  tests.LoginTest - Driver initialization done.
+2023-01-25 19:15:50,440 [TestNG-test=TestB-1] INFO  tests.LoginTest - My Account is clicked.
+2023-01-25 19:15:51,089 [TestNG-test=TestB-1] INFO  tests.LoginTest - Data insrted.
+2023-01-25 19:15:51,889 [TestNG-test=TestB-1] INFO  tests.LoginTest - Login button clicked.
+2023-01-25 19:15:51,901 [TestNG-test=TestB-1] INFO  tests.LoginTest - Assertion checked.
+2023-01-25 19:15:52,036 [TestNG-test=TestB-2] INFO  tests.LoginTest - Driver initialization done.
+2023-01-25 19:15:53,921 [TestNG-test=TestB-2] INFO  tests.LoginTest - click on Addresses then edit.
+2023-01-25 19:15:57,640 [TestNG-test=TestB-2] INFO  tests.LoginTest - Data inserted.
+2023-01-25 19:15:58,539 [TestNG-test=TestB-2] INFO  tests.LoginTest - Click on save address button.
+2023-01-25 19:15:58,629 [TestNG-test=TestB-2] INFO  tests.LoginTest - Driver initialization done.
+2023-01-25 19:15:59,232 [TestNG-test=TestB-2] INFO  tests.LoginTest - Clicked on Account deatails
+2023-01-25 19:15:59,921 [TestNG-test=TestB-2] INFO  tests.LoginTest - Data inserted.
+2023-01-25 19:16:00,738 [TestNG-test=TestB-2] INFO  tests.LoginTest - Clicked on Save acount Details.
+2023-01-25 19:16:00,755 [TestNG-test=TestB-2] INFO  tests.LoginTest - Driver initialization done.
+2023-01-25 19:16:01,666 [TestNG-test=TestB-2] INFO  tests.LoginTest - Click on Logout
+2023-01-25 19:16:01,701 [TestNG-test=TestB-2] INFO  tests.LoginTest - logout Assertion done.
+2023-01-25 19:16:01,707 [TestNG-test=TestB-2] INFO  tests.LoginTest - Driver initialization done.
+2023-01-25 19:16:12,385 [TestNG-test=TestB-2] INFO  tests.LoginTest - Driver initialization done.
+2023-01-25 19:16:39,962 [TestNG-test=TestC-1] INFO  tests.LoginTest - Driver initialization done.
+2023-01-25 19:16:40,156 [TestNG-test=TestC-1] INFO  tests.LoginTest - Clicked on My Account
+2023-01-25 19:19:53,918 [TestNG-test=TestA-1] INFO  tests.ShopTest - Driver initialized.
+2023-01-25 19:19:55,171 [TestNG-test=TestA-1] INFO  tests.ShopTest - Clicked on Shop link.
+2023-01-25 19:19:55,894 [TestNG-test=TestA-1] INFO  tests.ShopTest - Clicked on selenium link.
+2023-01-25 19:19:56,701 [TestNG-test=TestA-1] INFO  tests.ShopTest - Clicked in read more.
+2023-01-25 19:19:56,727 [TestNG-test=TestA-1] INFO  tests.ShopTest - Shop Page assertion checked.
+2023-01-25 19:20:15,307 [TestNG-test=TestB-1] INFO  tests.LoginTest - Driver initialization done.
+2023-01-25 19:20:16,349 [TestNG-test=TestB-1] INFO  tests.LoginTest - My Account is clicked.
+2023-01-25 19:20:17,070 [TestNG-test=TestB-1] INFO  tests.LoginTest - Data insrted.
+2023-01-25 19:20:17,990 [TestNG-test=TestB-1] INFO  tests.LoginTest - Login button clicked.
+2023-01-25 19:20:18,000 [TestNG-test=TestB-1] INFO  tests.LoginTest - Assertion checked.
+2023-01-25 19:20:18,126 [TestNG-test=TestB-2] INFO  tests.LoginTest - Driver initialization done.
+2023-01-25 19:20:19,797 [TestNG-test=TestB-2] INFO  tests.LoginTest - click on Addresses then edit.
+2023-01-25 19:20:23,093 [TestNG-test=TestB-2] INFO  tests.LoginTest - Data inserted.
+2023-01-25 19:20:23,994 [TestNG-test=TestB-2] INFO  tests.LoginTest - Click on save address button.
+2023-01-25 19:20:24,047 [TestNG-test=TestB-2] INFO  tests.LoginTest - Driver initialization done.
+2023-01-25 19:20:24,590 [TestNG-test=TestB-2] INFO  tests.LoginTest - Clicked on Account deatails
+2023-01-25 19:20:25,212 [TestNG-test=TestB-2] INFO  tests.LoginTest - Data inserted.
+2023-01-25 19:20:26,037 [TestNG-test=TestB-2] INFO  tests.LoginTest - Clicked on Save acount Details.
+2023-01-25 19:20:26,053 [TestNG-test=TestB-2] INFO  tests.LoginTest - Driver initialization done.
+2023-01-25 19:20:26,982 [TestNG-test=TestB-2] INFO  tests.LoginTest - Click on Logout
+2023-01-25 19:20:27,047 [TestNG-test=TestB-2] INFO  tests.LoginTest - logout Assertion done.
+2023-01-25 19:20:27,052 [TestNG-test=TestB-2] INFO  tests.LoginTest - Driver initialization done.
+2023-01-25 19:20:37,739 [TestNG-test=TestB-2] INFO  tests.LoginTest - Driver initialization done.
+2023-01-25 19:21:04,264 [TestNG-test=TestC-1] INFO  tests.LoginTest - Driver initialization done.
+2023-01-25 19:21:04,383 [TestNG-test=TestC-1] INFO  tests.LoginTest - Clicked on My Account
